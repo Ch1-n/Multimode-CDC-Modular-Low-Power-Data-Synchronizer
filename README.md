@@ -1,4 +1,4 @@
-# Asyn_fifo
+# ASYN_FIFO&SYNC_FIFO
 Very lean and fully functional asynchronous fifo
 The FIFO consists of a MEM, a read control terminal, a write control terminal, a two-level synchronization unit and a binary Gray code conversion unit. 
 Gray code pointer transfer is used to improve fault tolerance, and two-level synchronization is used to improve metastability. 
