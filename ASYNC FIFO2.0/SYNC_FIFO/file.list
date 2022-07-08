@@ -1,0 +1,2 @@
+./sync_fifo.v
+./sync_fifo_tb.v
